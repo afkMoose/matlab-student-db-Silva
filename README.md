@@ -1,3 +1,3 @@
 # midterm_project
 
-https://matlab.mathworks.com/?status=SUCCESS 
+https://www.mathworks.com MathWorks
